@@ -1,0 +1,1 @@
+Implementation in Kotlin in Clean Architecture of the Kata Contacts from Karumi http://www.slideshare.net/PedroVicenteGmezSnch/kata-contacts 
