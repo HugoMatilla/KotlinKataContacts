@@ -22,8 +22,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="KataContactsMain.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/KataContactsMain.kt">
+      <file leaf-file-name="View.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/View.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -486,7 +486,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContactRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1459500153000" expanded="true" signature="20:94" placeholder="/**...*/" />
+            <marker date="1459500153000" expanded="true" signature="144:407" placeholder="{...}" />
+            <marker date="1459500153000" expanded="true" signature="251:292" placeholder="{...}" />
+            <marker date="1459500153000" expanded="true" signature="346:405" placeholder="{...}" />
+            <marker date="1459500153000" expanded="true" signature="438:521" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataClasses.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1459447384000" expanded="true" signature="0:74" placeholder="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/KataContactsMain.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1459499900000" expanded="true" signature="0:74" placeholder="/**...*/" />
+            <marker date="1459499900000" expanded="true" signature="106:247" placeholder="{...}" />
+            <marker date="1459499900000" expanded="true" signature="147:245" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Presenter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1459502117000" expanded="true" signature="0:46" placeholder="/**...*/" />
+            <marker date="1459502117000" expanded="true" signature="95:1090" placeholder="{...}" />
+            <marker date="1459502117000" expanded="true" signature="339:474" placeholder="{...}" />
+            <marker date="1459502117000" expanded="true" signature="528:572" placeholder="{...}" />
+            <marker date="1459502117000" expanded="true" signature="636:1086" placeholder="{...}" />
+            <marker date="1459502117000" expanded="true" signature="692:914" placeholder="{...}" />
+            <marker date="1459502117000" expanded="true" signature="952:1080" placeholder="{...}" />
+            <marker date="1459502117000" expanded="true" signature="1113:1203" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UseCases.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1459449540000" expanded="true" signature="0:74" placeholder="/**...*/" />
+            <marker date="1459449540000" expanded="true" signature="135:224" placeholder="{...}" />
+            <marker date="1459449540000" expanded="true" signature="180:222" placeholder="{...}" />
+            <marker date="1459449540000" expanded="true" signature="255:292" placeholder="{...}" />
+            <marker date="1459449540000" expanded="true" signature="352:447" placeholder="{...}" />
+            <marker date="1459449540000" expanded="true" signature="402:445" placeholder="{...}" />
+            <marker date="1459449540000" expanded="true" signature="478:520" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
